@@ -1,0 +1,47 @@
+_repo: A-Study-of-Pueblo-Architecture--Tusayan-and-CibolaGovernment-Printing-Office-Washington-1891-__19856
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nichols, Hobart
+    aliases:
+    - Nichols, Henry Hobart
+    - Nichols, John Hobart
+    - Nichols, H. H. (Henry Hobart)
+    birthdate: 1869
+    deathdate: 1962
+    gutenberg_agent_id: '8924'
+    url: http://www.gutenberg.org/2009/agents/8924
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mindeleff, Cosmos
+    birthdate: 1863
+    gutenberg_agent_id: '7423'
+    url: http://www.gutenberg.org/2009/agents/7423
+  - agent_name: Mindeleff, Victor
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '8923'
+    url: http://www.gutenberg.org/2009/agents/8923
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Archaeology
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pueblo Indians -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'Pueblo architecture'
+title: "A Study of Pueblo Architecture: Tusayan and Cibola\r\nEighth Annual Report\
+  \ of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1886-1887,\
+  \ Government Printing Office, Washington, 1891, pages 3-228"
+url: http://www.gutenberg.org/ebooks/19856
